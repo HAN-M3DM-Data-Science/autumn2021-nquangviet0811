@@ -1,0 +1,25 @@
+---
+title: "Assigment - Data Driven Decision Making"
+author: Viet Nguyen
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+A business case example on data-driven decision making, below is the embedded code video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XFbeDXPRlBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Why was data driven decision making (3DM) useful in this business case?
+Warby Parker's ultimate objective is to deliver affordable glasses in the U.S. markets (at $95 per pair). Though inexpensive, these glasses seek to appeal as fashionable and Warby Parker has developed a data-centric culture where the majority of the company's decisions are informed and driven by data.
+Ultimately, data-driven approaches allow Warby Parker to (1) nurture and embrace its relationships with customers, (2) company's expansion driven by precise data, and (3) enable the whole company to become data-oriented
+
+## How did the organization apply 3DM?
+As mentioned above, the data-driven approach enables Warby Park to achieve the three following factors. Now, we are going into detail each one of these aspects.
+(1) Warby Parker records its customers's purchasing journey and communicates accordingly to those who visit the company's website. For example, Warby Park personalized its messages to customers who browsed their website and left without purchasing to improve its conversion rate.
+(2) Warby Parker started off as a pure e-commerce player, as the company grew exponentially year-by-year, it realizes the importance of executing an omni-channel strategy. Essentially, retail vendors helps complement the online store and services. To identify new locations, the company leverages its online sales data to identify where people are buying, consequently the company makes informed decisions on new locations. The retail location records customers' in-store foot traffic which will only raises its customers' data.
+(3) By enable data as a crucial guiding factor, practically all Warby Parker's personnels are conciously aware of a data-driven approach. People are stimulated by data and constantly embrace a data-driven approach within the company.
+
+## What can the organization do with 3DM that they couldn’t do before?
+The 3DM allows organizations to perform descriptive analytics, which explains basic subject such as sales rise, market share, conversion rate, e.t.c. More advanced, as the employees' competence and familiary with data builds up, along with improved data infrastructure, complex matters such as prescriptive analytics create path for forecasting & optimazation models which create for an organization an edge over its competitors.
