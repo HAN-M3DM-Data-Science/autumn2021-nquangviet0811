@@ -1,0 +1,25 @@
+---
+title: "Assigment - Data Problems vs Data Solutions"
+author: Viet Nguyen
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+Business case on data-driven decision making
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8M5n3uhWKHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## What was the business problem?
+Netflix originally started off as a mail service posting DVDs in the US, and it was completely sided by its then superior counterparts, Blockbuster. Since Netflix went to streaming, it coped with a large surmount of users' data and must enhance its recommender system.
+
+## How was it translated into a data mining problem?
+As most people who have been familiar with Netflix, it has many varying recommendation sections such as "Trending now", "Continue Watching" or "Top picks for Viet". These different sections are generalized as "Row".
+To maximize the number of users clicking on the recommended product, Netflix has a machine learning approach which seeks to generate a scoring fuction by training model on past data, this involves what users have actually seen or how have they interacted with each other (Chong,2021).
+
+## What is the realized business value?
+Netflix's recommendation system contributes to 80% of streaming time which is extremely impressive (Chong,2020). The organization ultimate goal is to enhance users' experience which consequently contributes to (1) increasing retention rate and (2) savings on customer acquisition ($1B/year in 2016) (Chong, 2021).
+
+## Referencing
+Chong, D. (2021, September 24). Deep dive into Netflix's Recommender System. Medium. Retrieved October 17, 2021, from https://towardsdatascience.com/deep-dive-into-netflixs-recommender-system-341806ae3b48. 
