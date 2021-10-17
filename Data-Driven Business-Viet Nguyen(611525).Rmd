@@ -1,0 +1,32 @@
+---
+title: "Assigment - Data-Driven Business"
+author: Viet Nguyen
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+Data-driven decision-making business case
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EevYFzAqJ2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## What features define a data driven business?
+From my perspective, a data-driven organization makes an effort to embrace using data in all of its business processes. A data-driven approach enables the organization to personalise its message, product or service to customers and prospects, which ultimately result in businesses' improved performance metrics.
+
+## What are the important features of a data culture?
+In my opinion, an organization makes its strategic decisions using data is not equivalent to having a data culture. According to Carl Anderson, Warby Parker's Director of Data Science believes a data-driven mindset means rendering data available into all of the company's business processes and "We want people to know they must always have the data to back up what they are trying to do" (CITO Research, 2018).
+
+In addition, a data-centric organization, while having adequate understanding of data is a must to its personnel, the organization must have the infrastructure needed to handle data flowlessly. For example, Warby Parker in its beginning days, mainly transfrom and interpret data in spreadsheets, but as the company receive a more substantial amount of users' data, spreadsheets are rendered inefficient. Its in-house SQL has a user-unfriendly interface and requires its personnel to learn about SQL, there Warby Parker decided to mitigate to a software called 'Looker', where its employees can easily access and visualize data.
+
+## What are the transformation steps towards a mature data driven business?
+1. Data-driven execution starts with leaders/managers (Waller, 2020)
+This shows leaders must take initiative and lead through examples.
+2. Render data-science department as a traditional business unit
+This basically means do not seperate your own data science into a completely seperated function, as organizations do with IT
+3. Render data accessible for every departments (Waller, 2020)
+
+## Referencing
+CITO Research. (2018). How Warby Parker is creating a data-driven culture. (n.d.). Retrieved October 17, 2021, from https://www.evolvedmedia.com/wp-content/uploads/2015/05/CITO-Research_Looker_How-Warby-Parker-is-Creating-a-Data-Driven-Culture_White-Paper.pdf. 
+Waller, D. (2020, February 6). 10 steps to creating a data-driven culture. Harvard Business Review. Retrieved October 17, 2021, from https://hbr.org/2020/02/10-steps-to-creating-a-data-driven-culture. 
+
